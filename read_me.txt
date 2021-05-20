@@ -1,0 +1,1 @@
+Run in the Command Prompt "tsc -w"

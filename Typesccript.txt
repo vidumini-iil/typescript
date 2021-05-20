@@ -1,0 +1,16 @@
+What is typescript? extension to JavaScript 
+
+JavaScript? 
+	JavaScript dynamically type language.  
+	write --> break in run time.  
+	medium size application.  
+	No safety JavaScript 
+	Errors in run time 
+	JavaScript difficult to scale and maintain JavaScript code.  
+	Don't have heavy entities. 
+
+Typescript 
+	Less errors in run time in Typescrite 
+	Typescript work with entities. 
+	Typescript cannot run directly on the browsers. 
+	Typescript needs to be transpiled inside JavaScript. Finally, we are getting JavaScript. 
